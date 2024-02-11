@@ -1,0 +1,7 @@
+name = "languagebuddy"
+main = "src/index.ts"
+compatibility_date = "2024-01-13"
+
+[vars]
+DISCORD_APPLICATION_ID = "1195570528698773535"
+DISCORD_PUBLIC_KEY = "3016607b37bf052832b511a6aa18cab84a29953335488f61552a3007a25bbc7f"
